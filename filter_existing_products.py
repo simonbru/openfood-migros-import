@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Check which migros food products already exist in OpenFood database"""
+"""Check which migros food products already exist in OpenFood database
+
+Requires psycopg2 library to access the postgres database
+"""
 
 import json
 from pathlib import Path
