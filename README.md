@@ -14,3 +14,8 @@
 # postgres database directly)
 ./filter_existing_products.py
 ```
+
+## Data dump
+Get the data retrieved on 20.11.2016:
+
+https://github.com/simonbru/openfood-migros-import/releases/download/v1/datadump.zip
