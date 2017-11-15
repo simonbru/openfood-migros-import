@@ -2,7 +2,7 @@
 # Get and print the IDs of every Migros food products
 # Requires curl, jq>=1.5
 
-NB_RESULTS=1000
+NB_RESULTS=400
 
 # get_ids <offset>
 get_ids() {
